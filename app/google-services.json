@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "project_number": "695439441592",
+    "firebase_url": "https://fishcatalog-c7bec.firebaseio.com",
+    "project_id": "fishcatalog-c7bec",
+    "storage_bucket": "fishcatalog-c7bec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695439441592:android:bbd4615eee9813a88a7e4d",
+        "android_client_info": {
+          "package_name": "com.id.soulution.fishcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695439441592-bpa0nq4r643kgne17685eiecc467c536.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.soulution.fishcatalog",
+            "certificate_hash": "4146b365c6c4ea7144e0b952abc07f4e776bb6bb"
+          }
+        },
+        {
+          "client_id": "695439441592-da9gjmb1bjosrg73jljsngpe083ov64d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.soulution.fishcatalog",
+            "certificate_hash": "1f89a31d3b71f46dbbad3579ece83c5c5549f5e4"
+          }
+        },
+        {
+          "client_id": "695439441592-i76j9n5qqhuc60cfofvcam96r1enqruk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.soulution.fishcatalog",
+            "certificate_hash": "330dbcc361c05673142c1cfd4b10b9a3e625e339"
+          }
+        },
+        {
+          "client_id": "695439441592-eual6ular4lp1op7qc826vmfhgdc0660.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.soulution.fishcatalog",
+            "certificate_hash": "17ba17e0e685ae1a4b65bef2b1420dc9d7f1b75e"
+          }
+        },
+        {
+          "client_id": "695439441592-efjba2vmsg0b7d2oakir7i1g7s0hjkva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.soulution.fishcatalog",
+            "certificate_hash": "afb59709956f91320e6a6440dd6f95d5e655568b"
+          }
+        },
+        {
+          "client_id": "695439441592-mso9kfh78j8oh2cu9po6cqkrhdfitqsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.soulution.fishcatalog",
+            "certificate_hash": "21e464ac1f4abcace630bd887b9a001379cc84f7"
+          }
+        },
+        {
+          "client_id": "695439441592-5vv9k27vj0jpav457hvsk1kdr5p90vtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD730mWs_vQLjouHQtkBwRR5e9YHGzDwoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695439441592-5vv9k27vj0jpav457hvsk1kdr5p90vtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

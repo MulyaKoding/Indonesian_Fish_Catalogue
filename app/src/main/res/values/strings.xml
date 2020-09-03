@@ -1,0 +1,116 @@
+<resources>
+    <!-- NAME -->
+    <string name="app_name">Indonesian Fish Catalogue</string>
+    <string name="dashboard_name">Dashboard</string>
+    <string name="edit_profile_name">Ubah Profil</string>
+    <string name="create_fish_name">Buat Ikan</string>
+    <string name="detail_fish_name">Detail Ikan</string>
+
+    <!-- BUTTON -->
+    <string name="btn_sign_in">Masuk dengan google</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_choose">Pilih Gambar</string>
+    <string name="btn_share">Bagikan</string>
+
+    <!-- MESSAGE -->
+    <string name="msg_please_wait">Harap tunggu sebentar</string>
+    <string name="msg_failed_login">Gagal masuk</string>
+    <string name="msg_success_login">Berhasil masuk</string>
+
+    <!-- LABEL -->
+    <string name="label_copyright">Powered By D3 Teknik Informatika</string>
+    <string name="label_home">Home</string>
+    <string name="label_contribution">Kontribusi</string>
+    <string name="label_account">Akun</string>
+    <string name="label_for_you">Untuk Anda</string>
+    <string name="label_tim">Anggota Tim</string>
+    <string name="label_type">Jenis Ikan</string>
+    <string name="label_location">Lokasi Penyebaran</string>
+    <string name="label_category">Daftar Kategori</string>
+    <string name="label_category_value">Label</string>
+    <string name="label_name">Nama Lengkap</string>
+    <string name="label_category_add">Tambah Kategori</string>
+    <string name="label_location_add">Tambah Lokasi</string>
+    <string name="label_about_us">Tentang Kami</string>
+    <string name="label_fish_name">Nama Ikan</string>
+    <string name="label_fish_description">Deskripsi Ikan</string>
+
+    <string name="label_fish_type_1">Air Tawar</string>
+    <string name="label_fish_type_2">Air Payau</string>
+    <string name="label_fish_type_3">Air Laut</string>
+
+    <string name="label_fish_category_1">Warna</string>
+    <string name="label_fish_category_2">Spesies</string>
+    <string name="label_fish_category_3">Genus</string>
+    <string name="label_fish_category_4">Famili</string>
+    <string name="label_fish_category_5">Ordo</string>
+    <string name="label_fish_category_6">Kelas</string>
+    <string name="label_fish_category_7">Filum</string>
+    <string name="label_fish_category_8">Kerajaan</string>
+    <string name="label_fish_category_9">Domain</string>
+
+    <!-- ARRAY -->
+    <string-array name="classification_array">
+        <item>Warna</item>
+        <item>Spesies</item>
+        <item>Genus</item>
+        <item>Famili</item>
+        <item>Ordo</item>
+        <item>Kelas</item>
+        <item>Filum</item>
+        <item>Kerajaan</item>
+        <item>Domain</item>
+    </string-array>
+
+    <string-array name="type_array">
+        <item>Air Tawar</item>
+        <item>Air Payau</item>
+        <item>Air Laut</item>
+    </string-array>
+
+    <string-array name="choole_share">
+        <item>Bagikan Deskripsi</item>
+        <item>Bagikan Gambar</item>
+    </string-array>
+
+    <string-array name="choole_action">
+        <item>Ubah Ikan</item>
+        <item>Hapus Ikan</item>
+    </string-array>
+
+    <string-array name="location_array">
+        <item>Aceh</item>
+        <item>Sumatera Utara</item>
+        <item>Sumatera Barat</item>
+        <item>Riau</item>
+        <item>Jambi</item>
+        <item>Sumatera Selatan</item>
+        <item>Bengkulu</item>
+        <item>Lampung</item>
+        <item>Kepulauan Riau</item>
+        <item>DKI Jakarta</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>D.I. Yogyakarta</item>
+        <item>Banten</item>
+        <item>Bali</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Nusa Tenggara Timur</item>
+        <item>Kalimantan Barat</item>
+        <item>Kalimantan Tengah</item>
+        <item>Kalimantan Selatan</item>
+        <item>Kalimantan Timur</item>
+        <item>Kalimantan Utara</item>
+        <item>Sulawesi Utara</item>
+        <item>Sulawesi Tengah</item>
+        <item>Sulawesi Selatan</item>
+        <item>Sulawesi Tenggara</item>
+        <item>Sulawesi Barat</item>
+        <item>Gorontalo</item>
+        <item>Maluku</item>
+        <item>Maluku Utara</item>
+        <item>Papua</item>
+        <item>Papua Barat</item>
+    </string-array>
+</resources>

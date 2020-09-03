@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorWhite"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:id="@+id/dialog_choose_category_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@drawable/bg_bottom_card"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label_category"
+            android:textColor="@color/colorPrimary"/>
+
+        <Spinner
+            android:id="@+id/dialog_choose_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:spinnerMode="dropdown" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/dialog_input_category_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@drawable/bg_bottom_card"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label_category_value"
+            android:textColor="@color/colorPrimary"/>
+
+        <EditText
+            android:id="@+id/dialog_input_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLines="1"
+            android:textColor="@color/colorBlack"/>
+
+    </LinearLayout>
+
+</LinearLayout>
