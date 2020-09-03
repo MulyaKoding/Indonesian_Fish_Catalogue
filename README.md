@@ -1,2 +1,2 @@
 # FishCatalog
-
+Aplikasi Katalog Perikanan Indonesia Berbasis android yang bertujuan untuk membuat data-data ikan yang ada di indonesia dengan metode filtering lokasi penyebaran ikan yang ada di Indonesia , mencatat jenis species-species ikan yang ada di Indonesia, membuat database ikan yang ada di Indonesia yang telah di download oleh user, membagikan data-data ikan yang ada di aplikasi ke orang lain lewat social media. Membantu dinas kelautan dan perikanan Jawa Barat untuk mencatat jenis-jenis ikan yang ada di Indonesia
